@@ -3,7 +3,7 @@
 
 
 - 🌱 Estudando HTML5 e CSS3 (em breve Javascript)
-- 📫 Você pode me achar no meu Whatsapp: 6996584597
+- 📲 62-996584597 
 - ⚡ Empresario que se apaixonou por desenvolvimento web 
 
 <div align="center">
