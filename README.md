@@ -2,9 +2,8 @@
 
 
 
-- 🌱 Estudando HTML5 e CSS3 (em breve Javascript)
-- 📲 62-996584597 
-- ⚡ Empresario que se apaixonou por desenvolvimento web 
+- 🌱 Front end apprentice
+- 📲 62-996584597  
 
 <div align="center">
   <a href="https://github.com/guilherm5">
